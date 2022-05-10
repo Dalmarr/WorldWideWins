@@ -1,5 +1,6 @@
 # WorldWideWins
-Executive Summary WorldWideWins is an e-commerce page that aims to sell lottery tickets from the biggest lotteries from all around the world. 
+
+WorldWideWins is an e-commerce page that aims to sell lottery tickets from the biggest lotteries from all around the world. 
 From South Africa to New Zealand, we have them all. For those people that have an itch for gambling, WorldWideWins provides the right scratch! 
 
 ## Features:
